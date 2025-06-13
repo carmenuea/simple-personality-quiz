@@ -11,9 +11,9 @@
 ![image](https://github.com/user-attachments/assets/64cc20fa-6fec-405f-8b3c-682dcf59a3e6)
 
 
-## How to run the program :
+### How to run the program :
 - Download the code as a zip file
 - Extract the zip file
-- Open VS Code
+- Open VS Code or any code editor
 - Open only the final project folder
 - Run the main.py code  
