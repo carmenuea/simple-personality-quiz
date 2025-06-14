@@ -6,7 +6,7 @@
 ## Description :
 - In this quiz, there are 5 brief questions, and each question has 2 answer options.
 - At the end of the quiz, the result will appear, showing your score in percentages along with a positive and encouraging message based on your answers.
-- The goal is to give a meaningful experience so users can feel that they're unique in their own way and just have fun with the quiz. ✨
+- The goal is to give a meaningful experience so users can feel that they're unique in their own way and they can just have fun with the quiz. ✨
 
 ![image](https://github.com/user-attachments/assets/64cc20fa-6fec-405f-8b3c-682dcf59a3e6)
 
